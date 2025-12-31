@@ -1,0 +1,12 @@
+# Core Machine Learning Libraries
+tensorflow>=2.17.0
+transformers>=4.40.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Support Libraries
+tf-keras>=2.17.0
+torch>=2.2.0
+tqdm
+streamlit
