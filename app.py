@@ -8,7 +8,7 @@ import pandas as pd
 st.set_page_config(
     page_title="Product Categorizer AI",  # This changes the browser tab text
     page_icon="📦",                        # This changes the favicon (emoji or file)
-    layout="centred"                         # Optional: makes the app use the full screen width
+    layout="centered"                         # Optional: makes the app use the full screen width
 )
 
 # --- LOAD ASSETS ---
